@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "297261080887",
+    "firebase_url": "https://thmoviesapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "thmoviesapp",
+    "storage_bucket": "thmoviesapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297261080887:android:7b0b603afdf849bbe1bab2",
+        "android_client_info": {
+          "package_name": "com.example.doantotnghiep_xemphim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297261080887-le665octlto1pj2cl0brmuvdcpm5vlib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.doantotnghiep_xemphim",
+            "certificate_hash": "e769bd9ccb9df5450eada40719747b497344b790"
+          }
+        },
+        {
+          "client_id": "297261080887-uk83anknqnmb67so91urqjhg3bqph03s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa5knv2Y3jfymsBT2tvpWehudisvQSHVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297261080887-uk83anknqnmb67so91urqjhg3bqph03s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
